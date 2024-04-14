@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atharvhiremath
-- 👀 I’m interested in learning new thingsss
+- 👀 I’m interested in learning new thingsss eg: github
 
 
 <!---
